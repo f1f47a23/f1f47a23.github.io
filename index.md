@@ -1,6 +1,7 @@
 
-### ☆꧁✬◦°˚°◦. [𝓐𝓦𝓔𝓢𝓞𝓜𝓔 𝓛𝓘𝓢𝓣 𝓞𝓕](https://github.com/f1f47a23/AWESOME/blob/main/AWESOME-LIST-OF-XRPL-DEV-RESOURCES.md)<br>[𝓧𝓡𝓟𝓛 𝓓𝓔𝓥 𝓡𝓔𝓢𝓞𝓤𝓡𝓒𝓔𝓢](https://github.com/f1f47a23/AWESOME/blob/main/AWESOME-LIST-OF-XRPL-DEV-RESOURCES.md).◦°˚°◦✬꧂☆
+## ☆꧁✬◦°˚°◦. [𝓐𝓦𝓔𝓢𝓞𝓜𝓔 𝓛𝓘𝓢𝓣 𝓞𝓕](https://github.com/f1f47a23/AWESOME/blob/main/AWESOME-LIST-OF-XRPL-DEV-RESOURCES.md).◦°˚°◦✬꧂☆
 
+## [𝓧𝓡𝓟𝓛 𝓓𝓔𝓥 𝓡𝓔𝓢𝓞𝓤𝓡𝓒𝓔𝓢](https://github.com/f1f47a23/AWESOME/blob/main/AWESOME-LIST-OF-XRPL-DEV-RESOURCES.md)
 
 <br><br>
 
