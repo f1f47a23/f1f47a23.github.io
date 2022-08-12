@@ -1,4 +1,7 @@
-PGPto: f1f47a23@mail.com
+
+PGP@: f1f47a23@mail.com
+
+PGPtool: https://www.gpg4win.org/get-gpg4win.html
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
