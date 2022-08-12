@@ -3,18 +3,5 @@
 DUMMY WEBSITE<br>
 Nothing to see here - Move along<br>
 
-PGPto: f1f47a23@mail.com 
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEYvY6UxYJKwYBBAHaRw8BAQdATGeo3/olxoK2cZF5GwJupdv+nmzgumhtHvWa
-klXu/tm0HGYxZjQ3YTIzIDxmMWY0N2EyM0BtYWlsLmNvbT6ImQQTFgoAQRYhBGvC
-sVsOz2qtyu44GYvjQeuu2d5fBQJi9jpTAhsDBQkDw6LNBQsJCAcCAiICBhUKCQgL
-AgQWAgMBAh4HAheAAAoJEIvjQeuu2d5fT90BAIC4PFAM/kYZX0jaBlAhRmrj98Ng
-84qYKMj/AOta0UruAP9JTBWiGZ+5Ir/zzjWfwUazEf70hjreIOrbZnYRS9lQA7g4
-BGL2OlMSCisGAQQBl1UBBQEBB0D7cUy4QiqwDuP2wjSwHdJFV0dCxp0P5IfCCahO
-qxKCSgMBCAeIfgQYFgoAJhYhBGvCsVsOz2qtyu44GYvjQeuu2d5fBQJi9jpTAhsM
-BQkDw6LNAAoJEIvjQeuu2d5f7lUBAOlnpWEwDkF4asCkLFmwuRAdCl7uI07mTbkY
-Z/tNjUycAQCdWjPXgY13/DFCCHczSioFRmq8SwU4Fvx7UyF5UNWvBA==
-=F/qM
------END PGP PUBLIC KEY BLOCK-----
-
+## PGPto: f1f47a23@mail.com <br>
+## [PGPinfo](https://github.com/f1f47a23/f1f47a23.github.io/blob/main/PGPinfo.txt)
