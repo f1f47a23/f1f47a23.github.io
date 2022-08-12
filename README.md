@@ -5,4 +5,4 @@ Nothing to see here - Move along<br>
 
 ## [PGPinfo](https://github.com/f1f47a23/f1f47a23.github.io/blob/main/PGPinfo.txt)
 
-## [xrpledger-stats](tinyurl.com/xrpledger)
+## [xrpledger-stats](https://tinyurl.com/xrpledger)
