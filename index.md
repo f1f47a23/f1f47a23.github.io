@@ -5,16 +5,16 @@
 
 <br><br>
 
-## [z1x-xrp-wallet](https://github.com/f1f47a23/z1x-xrp-wallet)
+## ☆꧁✬◦°˚°◦. [z1x-xrp-wallet](https://github.com/f1f47a23/z1x-xrp-wallet).◦°˚°◦✬꧂☆
 
 
 <br><br>
 
-## [xrpledger-stats](https://tinyurl.com/xrpledger)
+## ☆꧁✬◦°˚°◦. [xrpledger-stats](https://tinyurl.com/xrpledger).◦°˚°◦✬꧂☆
 
 <br><br>
 
-## [PGPinfo](https://f1f47a23.github.io/PGPinfo.txt) 
+## ☆꧁✬◦°˚°◦. [PGPinfo](https://f1f47a23.github.io/PGPinfo.txt).◦°˚°◦✬꧂☆
 
 
 <br><br><br><br>
