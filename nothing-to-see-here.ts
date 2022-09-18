@@ -3,7 +3,7 @@
 // BEGINOF DUMMY CODE
 //
 //      Nothing to see here, move along
-//      just to tease the github search engine
+//      this file is here just to tease the github search engine
 //
 
 export { CDummy };
