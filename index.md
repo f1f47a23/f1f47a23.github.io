@@ -21,6 +21,6 @@
 
 ![Image](https://f1f47a23.github.io/img/nothing-to-see-here-move-along.jpg)
 
-![Image](https://f1f47a23.github.io/img/xrp-investor-casino.jpg)
+
 
 
